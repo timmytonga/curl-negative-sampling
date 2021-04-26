@@ -1,0 +1,15 @@
+2021-04-21 23:51:09,003:__main__:INFO: Model path: ./results_ss0.1/results_subsamp0.1_N62/model_100.pth
+2021-04-21 23:51:09,003:__main__:INFO: Batch size: 256
+2021-04-21 23:51:09,003:__main__:INFO: Epochs: 100
+2021-04-21 23:51:09,003:__main__:INFO: Model: resnet10vw
+2021-04-21 23:51:09,003:__main__:INFO: Width: 10
+2021-04-21 23:51:09,003:__main__:INFO: Seed: 0
+2021-04-21 23:51:09,003:__main__:INFO: Logpath: linear_ss0.1_results/N62.log
+2021-04-21 23:51:09,003:__main__:INFO: Result dir: linear_ss0.1_results
+2021-04-21 23:51:09,003:__main__:INFO: Verbose: False
+2021-04-21 23:51:09,003:__main__:INFO: Parallelize: False
+2021-04-21 23:51:09,003:__main__:INFO: Num neg: 62
+2021-04-21 23:51:09,003:__main__:INFO: 
+
+2021-04-21 23:51:09,003:__main__:INFO: Loading Data
+2021-04-21 23:51:17,181:__main__:INFO: Loading Model
